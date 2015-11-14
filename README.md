@@ -13,7 +13,7 @@ dependencies {
 
 ```
 
-![Mario collect coins](https://10428.https.cdn.softlayer.net/8010428/dal05.objectstorage.softlayer.net/v1/AUTH_3c173d3a-8847-45dc-9d93-faf1d6e70fe5/screenshots/d45cbb05-28ff-4c2c-a3c8-95793c14c25f)
+![Mario collect coins](http://i1.wp.com/www.guidebee.com.au/wordpress/wp-content/uploads/2015/11/stretchviewport.png)
 
 
 [ ![Download](https://api.bintray.com/packages/guidebee/guidebee/GGE/images/download.svg) ](https://bintray.com/guidebee/guidebee/GGE/_latestVersion)
